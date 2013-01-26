@@ -3,9 +3,10 @@ Contributors: philipjohn
 Donate link: http://philipjohn.co.uk/hire-me/
 Tags: recent posts, latest posts, story, stories, group, grouping
 Requires at least: 3.3.1
-Tested up to: 3.3.1
-License: GPLv2
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tested up to: 3.5.1
+Stable tag: trunk
+License: WTFPL
+License URI: http://www.wtfpl.net
 
 Easily place links to the latest posts on a story below each post
 
@@ -28,3 +29,10 @@ Simply add the shortcode into the post or page of your choice, specifying a tag 
 = 0.1 =
 * Initial version
 
+= 0.2 =
+* Removed install location nonsense
+* Changed license from GPL to WTFPL
+* Added stable tag as trunk
+* Added option to change title
+* Added option to change container ID
+* Added i18n support
