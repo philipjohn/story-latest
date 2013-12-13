@@ -3,7 +3,7 @@ Contributors: philipjohn
 Donate link: http://philipjohn.co.uk/hire-me/
 Tags: recent posts, latest posts, story, stories, group, grouping
 Requires at least: 3.3.1
-Tested up to: 3.5.1
+Tested up to: 3.8
 Stable tag: trunk
 License: WTFPL
 License URI: http://www.wtfpl.net
